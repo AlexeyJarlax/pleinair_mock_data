@@ -1,3 +1,72 @@
 {
-  "version": "1.0.2",
+  "detail": {
+    "total": 3,
+    "offset": 0,
+    "ads": [
+      {
+        "id": "mock-ads-1",
+        "title": "Toyota Land Cruiser 200, 2016",
+        "markName": "Toyota",
+        "modelName": "Land Cruiser 200",
+        "year": 2016,
+        "run": 118000,
+        "region": "Москва",
+        "price": "5200000",
+        "date": "2024-05-01T09:30:00Z",
+        "photos": [
+          {
+            "id": "mock-ads-1-photo-1",
+            "link": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d"
+          },
+          {
+            "id": "mock-ads-1-photo-2",
+            "link": "https://images.unsplash.com/photo-1503376780353-7e6692767b70"
+          }
+        ],
+        "description": "Land Cruiser 200 в максимальной комплектации, дилерское обслуживание, один владелец.",
+        "adType": "auto",
+        "carTypeId": 1,
+        "userPhones": "+7 999 111-22-33",
+        "telegram": "@pleinair_demo"
+      },
+      {
+        "id": "mock-ads-2",
+        "title": "MAN TGS 41.440 самосвал",
+        "markName": "MAN",
+        "modelName": "TGS 41.440",
+        "year": 2019,
+        "run": 78000,
+        "region": "Санкт-Петербург",
+        "price": "8900000",
+        "date": "2024-05-10T12:15:00Z",
+        "photos": [
+          {
+            "id": "mock-ads-2-photo-1",
+            "link": "https://images.unsplash.com/photo-1517142089942-ba376ce32a0e"
+          }
+        ],
+        "description": "Самосвал в отличном состоянии, новая резина, подключены все сервисы слежения.",
+        "adType": "truck",
+        "carTypeId": 9,
+        "userPhones": "+7 921 555-66-77"
+      },
+      {
+        "id": "mock-ads-3",
+        "title": "Шиномонтаж 24/7",
+        "region": "Новосибирск",
+        "price": "1500",
+        "date": "2024-05-18",
+        "photos": [
+          {
+            "id": "mock-ads-3-photo-1",
+            "link": "https://images.unsplash.com/photo-1489515217757-5fd1be406fef"
+          }
+        ],
+        "description": "Мобильная бригада: сезонная смена колёс, хранение, выезд по городу.",
+        "adType": "services",
+        "carTypeId": 24,
+        "userPhones": "+7 913 000-11-22"
+      }
+    ]
+  }
 }
