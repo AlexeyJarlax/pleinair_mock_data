@@ -49,15 +49,15 @@
       },
       {
         "id": "pleinair-event-3",
-        "title": "Зимний дворец",
-        "city": "СПБ",
-        "venue": "Площадь",
+        "title": "Горный этюд на Манжероке",
+        "city": "Республика Алтай",
+        "venue": "Смотровая площадка озера Манжерок",
         "dateTime": "2024-07-05T10:00:00+07:00",
         "maxParticipants": 12,
         "photos": [
           {
             "id": "pleinair-event-3-photo-1",
-            "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Winter_Palace_Panorama_3.jpg/500px-Winter_Palace_Panorama_3.jpg"
+            "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Anichkov_Bridge_SPB_%28img1%29.jpg/500px-Anichkov_Bridge_SPB_%28img1%29.jpg"
           }
         ],
         "description": "Целый день на природе: горы, вода и сосны. Работаем акварелью, изучаем глубину пространства.",
