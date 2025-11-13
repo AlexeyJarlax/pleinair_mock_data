@@ -13,11 +13,11 @@
         "photos": [
           {
             "id": "pleinair-event-1-photo-1",
-            "link": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+            "link": "https://www.izocenter.ru//assets/images/content/articles/224/izocenter-plener-preview.jpg"
           },
           {
             "id": "pleinair-event-1-photo-2",
-            "link": "https://images.unsplash.com/photo-1469474968028-56623f02e42e"
+            "link": "https://zvetnoe.ru/upload/images/blog/147_Osobennosti_plenernoy_zhivopisy/0.jpg"
           }
         ],
         "description": "Рисуем первые лучи солнца над Москвой-рекой, обсуждаем композицию и тёплые цвета утра.",
@@ -37,7 +37,7 @@
         "photos": [
           {
             "id": "pleinair-event-2-photo-1",
-            "link": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f"
+            "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Bronze_Horseman_%28St._Petersburg%2C_Russia%29.jpg/1280px-The_Bronze_Horseman_%28St._Petersburg%2C_Russia%29.jpg"
           }
         ],
         "description": "Вечерний свет, архитектурные ритмы и быстрые наброски гуашью. Подходит для уровня от новичка.",
@@ -49,15 +49,15 @@
       },
       {
         "id": "pleinair-event-3",
-        "title": "Горный этюд на Манжероке",
-        "city": "Республика Алтай",
-        "venue": "Смотровая площадка озера Манжерок",
+        "title": "Зимний дворец",
+        "city": "СПБ",
+        "venue": "Площадь",
         "dateTime": "2024-07-05T10:00:00+07:00",
         "maxParticipants": 12,
         "photos": [
           {
             "id": "pleinair-event-3-photo-1",
-            "link": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+            "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Winter_Palace_Panorama_3.jpg/500px-Winter_Palace_Panorama_3.jpg"
           }
         ],
         "description": "Целый день на природе: горы, вода и сосны. Работаем акварелью, изучаем глубину пространства.",
