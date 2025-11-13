@@ -2,70 +2,70 @@
   "detail": {
     "total": 3,
     "offset": 0,
-    "ads": [
+    "events": [
       {
-        "id": "mock-ads-1",
-        "title": "Toyota Land Cruiser 200, 2016",
-        "markName": "Toyota",
-        "modelName": "Land Cruiser 200",
-        "year": 2016,
-        "run": 118000,
-        "region": "Москва",
-        "price": "5200000",
-        "date": "2024-05-01T09:30:00Z",
+        "id": "pleinair-event-1",
+        "title": "Рассветный пленэр на Воробьёвых горах",
+        "city": "Москва",
+        "venue": "Смотровая площадка Воробьёвых гор",
+        "dateTime": "2024-06-15T04:30:00+03:00",
+        "maxParticipants": 12,
         "photos": [
           {
-            "id": "mock-ads-1-photo-1",
-            "link": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d"
+            "id": "pleinair-event-1-photo-1",
+            "link": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
           },
           {
-            "id": "mock-ads-1-photo-2",
-            "link": "https://images.unsplash.com/photo-1503376780353-7e6692767b70"
+            "id": "pleinair-event-1-photo-2",
+            "link": "https://images.unsplash.com/photo-1469474968028-56623f02e42e"
           }
         ],
-        "description": "Land Cruiser 200 в максимальной комплектации, дилерское обслуживание, один владелец.",
-        "adType": "auto",
-        "carTypeId": 1,
-        "userPhones": "+7 999 111-22-33",
-        "telegram": "@pleinair_demo"
+        "description": "Рисуем первые лучи солнца над Москвой-рекой, обсуждаем композицию и тёплые цвета утра.",
+        "organizer": {
+          "name": "Александра Королёва",
+          "phone": "+7 999 999-99-99",
+          "telegram": "@pleinair_morning"
+        }
       },
       {
-        "id": "mock-ads-2",
-        "title": "MAN TGS 41.440 самосвал",
-        "markName": "MAN",
-        "modelName": "TGS 41.440",
-        "year": 2019,
-        "run": 78000,
-        "region": "Санкт-Петербург",
-        "price": "8900000",
-        "date": "2024-05-10T12:15:00Z",
+        "id": "pleinair-event-2",
+        "title": "Городские этюды на Невском",
+        "city": "Санкт-Петербург",
+        "venue": "Дворцовая площадь — арка Главного штаба",
+        "dateTime": "2024-06-22T18:00:00+03:00",
+        "maxParticipants": 12,
         "photos": [
           {
-            "id": "mock-ads-2-photo-1",
-            "link": "https://images.unsplash.com/photo-1517142089942-ba376ce32a0e"
+            "id": "pleinair-event-2-photo-1",
+            "link": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f"
           }
         ],
-        "description": "Самосвал в отличном состоянии, новая резина, подключены все сервисы слежения.",
-        "adType": "truck",
-        "carTypeId": 9,
-        "userPhones": "+7 921 555-66-77"
+        "description": "Вечерний свет, архитектурные ритмы и быстрые наброски гуашью. Подходит для уровня от новичка.",
+        "organizer": {
+          "name": "Студия \"Белые ночи\"",
+          "phone": "+7 999 999-99-98",
+          "telegram": "@white_nights_art"
+        }
       },
       {
-        "id": "mock-ads-3",
-        "title": "Шиномонтаж 24/7",
-        "region": "Новосибирск",
-        "price": "1500",
-        "date": "2024-05-18",
+        "id": "pleinair-event-3",
+        "title": "Горный этюд на Манжероке",
+        "city": "Республика Алтай",
+        "venue": "Смотровая площадка озера Манжерок",
+        "dateTime": "2024-07-05T10:00:00+07:00",
+        "maxParticipants": 12,
         "photos": [
           {
-            "id": "mock-ads-3-photo-1",
-            "link": "https://images.unsplash.com/photo-1489515217757-5fd1be406fef"
+            "id": "pleinair-event-3-photo-1",
+            "link": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
           }
         ],
-        "description": "Мобильная бригада: сезонная смена колёс, хранение, выезд по городу.",
-        "adType": "services",
-        "carTypeId": 24,
-        "userPhones": "+7 999 999-99-99"
+        "description": "Целый день на природе: горы, вода и сосны. Работаем акварелью, изучаем глубину пространства.",
+        "organizer": {
+          "name": "Павел Чекмарёв",
+          "phone": "+7 999 999-99-97",
+          "telegram": "@altai_artguide"
+        }
       }
     ]
   }
