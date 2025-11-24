@@ -1,0 +1,43 @@
+[ {
+  "userId" : "211c5981-9e4b-49d4-8600-9c35bf8c8a69",
+  "avatar" : "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80",
+  "username" : "Rick and Morty",
+  "phone" : "71111111111",
+  "type" : null,
+  "createdAt" : "2025-11-22T18:08:22.977751600Z",
+  "telegramId" : "@463wt3",
+  "description" : null,
+  "city" : null,
+  "coordinate" : null,
+  "photos" : null,
+  "favorite" : [ ],
+  "meatingHistory" : [ ]
+}, {
+  "userId" : "a7de53eb-fd0f-4e4f-b9ce-f039653ff8a2",
+  "avatar" : "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80&sat=-50",
+  "username" : "company3",
+  "phone" : "73333333333",
+  "type" : null,
+  "createdAt" : "2025-11-23T09:28:19.340929Z",
+  "telegramId" : "@fgsadfayhb",
+  "description" : null,
+  "city" : null,
+  "coordinate" : null,
+  "photos" : null,
+  "favorite" : [ ],
+  "meatingHistory" : [ ]
+}, {
+  "userId" : "d2ffce59-5061-48aa-92ab-89b975b00302",
+  "avatar" : "uploads/fa5f9ef0-9fc2-4971-bc1c-a675a917980a.jpg",
+  "username" : "222",
+  "phone" : "72222222222",
+  "type" : null,
+  "createdAt" : "2025-11-21T17:04:29.735862700Z",
+  "telegramId" : "@dwww",
+  "description" : null,
+  "city" : null,
+  "coordinate" : null,
+  "photos" : null,
+  "favorite" : [ "pleinair-event-2", "event-a9776147-e884-4a46-a67e-5e0497f0aedf", "event-faa00e39-19cb-4ebe-aaab-cf2f11a10513" ],
+  "meatingHistory" : [ ]
+} ]
