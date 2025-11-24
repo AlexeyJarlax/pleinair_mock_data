@@ -1,78 +1,93 @@
 {
-  "detail": {
-    "total": 3,
-    "offset": 0,
-    "events": [
-      {
-        "id": "pleinair-event-1",
-        "title": "Рассветный пленэр на Воробьёвых горах",
-        "city": "Москва",
-        "venue": "Смотровая площадка Воробьёвых гор",
-        "dateTime": "2024-06-15T04:30:00+03:00",
-        "servTypeName": "Акварель",
-        "stat": 7,
-        "maxParticipants": 12,
-        "photos": [
-          {
-            "id": "pleinair-event-1-photo-1",
-            "link": "https://www.izocenter.ru//assets/images/content/articles/224/izocenter-plener-preview.jpg"
-          },
-          {
-            "id": "pleinair-event-1-photo-2",
-            "link": "https://zvetnoe.ru/upload/images/blog/147_Osobennosti_plenernoy_zhivopisy/0.jpg"
-          }
-        ],
-        "description": "Публичный mock-фид с github > events.json // Рисуем первые лучи солнца над Москвой-рекой, обсуждаем композицию и тёплые цвета утра.",
-        "organizer": {
-          "name": "Александра Королёва",
-          "phone": "+7 999 999-99-99",
-          "telegram": "@pleinair_morning"
-        }
+  "detail" : {
+    "total" : 4,
+    "offset" : 0,
+    "events" : [ {
+      "eventId" : "event-faa00e39-19cb-4ebe-aaab-cf2f11a10513",
+      "userId" : "d2ffce59-5061-48aa-92ab-89b975b00302",
+      "eventName" : "001",
+      "adType" : "art_club",
+      "style" : "Маркеры",
+      "eventDateTime" : "77",
+      "maxParticipants" : 77,
+      "currentParticipants" : 0,
+      "description" : "77 источник https://raw.githubusercontent.com/AlexeyJarlax/pleinair_mock_data/main/events.json",
+      "price" : 7777.0,
+      "city" : "Пермь",
+      "address" : "улица Петра Кончаловского 3, Даниловский район, Москва, Россия",
+      "coordinate" : {
+        "latitude" : 55.691261832213684,
+        "longitude" : 37.637672424316406
       },
-      {
-        "id": "pleinair-event-2",
-        "title": "Городские этюды на Невском",
-        "city": "Санкт-Петербург",
-        "venue": "Дворцовая площадь — арка Главного штаба",
-        "dateTime": "2024-06-22T18:00:00+03:00",
-        "servTypeName": "Гуашь",
-        "stat": 4,
-        "maxParticipants": 12,
-        "photos": [
-          {
-            "id": "pleinair-event-2-photo-1",
-            "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Bronze_Horseman_%28St._Petersburg%2C_Russia%29.jpg/1280px-The_Bronze_Horseman_%28St._Petersburg%2C_Russia%29.jpg"
-          }
-        ],
-        "description": "Публичный mock-фид с github > events.json // Вечерний свет, архитектурные ритмы и быстрые наброски гуашью. Подходит для уровня от новичка.",
-        "organizer": {
-          "name": "Студия \"Белые ночи\"",
-          "phone": "+7 999 999-99-98",
-          "telegram": "@white_nights_art"
-        }
+      "photos" : [ {
+        "id" : "photo-9949830c-8bb2-4ae3-84c4-9d79d5dd0f24",
+        "link" : "uploads/3b36b98a-de68-4c41-82d4-1d76528be240.jpg",
+        "order" : 0
+      } ]
+    }, {
+      "eventId" : "event-aac02c14-394d-4c07-9419-0a0154026cf7",
+      "userId" : "d2ffce59-5061-48aa-92ab-89b975b00302",
+      "eventName" : "002",
+      "adType" : "art_club",
+      "style" : "Маркеры",
+      "eventDateTime" : "33",
+      "maxParticipants" : 33,
+      "currentParticipants" : 0,
+      "description" : "33 источник https://raw.githubusercontent.com/AlexeyJarlax/pleinair_mock_data/main/events.json",
+      "price" : 33.0,
+      "city" : "Красноярск",
+      "address" : "набережная Марка Шагала, Даниловский район, Москва, Россия",
+      "coordinate" : {
+        "latitude" : 55.687907435826226,
+        "longitude" : 37.637014389038086
       },
-      {
-        "id": "pleinair-event-3",
-        "title": "Горный этюд на Манжероке",
-        "city": "Республика Алтай",
-        "venue": "Смотровая площадка озера Манжерок",
-        "dateTime": "2024-07-05T10:00:00+07:00",
-        "servTypeName": "Пастель",
-        "stat": 10,
-        "maxParticipants": 12,
-        "photos": [
-          {
-            "id": "pleinair-event-3-photo-1",
-            "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Anichkov_Bridge_SPB_%28img1%29.jpg/500px-Anichkov_Bridge_SPB_%28img1%29.jpg"
-          }
-        ],
-        "description": "Публичный mock-фид с github > events.json // Целый день на природе: горы, вода и сосны. Работаем акварелью, изучаем глубину пространства.",
-        "organizer": {
-          "name": "Павел Чекмарёв",
-          "phone": "+7 999 999-99-97",
-          "telegram": "@altai_artguide"
-        }
-      }
-    ]
+      "photos" : [ {
+        "id" : "photo-32893f0f-a643-4ec9-b583-9379c73160fe",
+        "link" : "uploads/4e94fd24-b7f1-4aaa-8f43-e551c2e99365.jpg",
+        "order" : 0
+      } ]
+    }, {
+      "eventId" : "event-1d40c50f-62a8-4b70-ad2a-4f4afbebda15",
+      "userId" : "d2ffce59-5061-48aa-92ab-89b975b00302",
+      "eventName" : "003",
+      "adType" : "pleinair_events",
+      "style" : "Карандаш",
+      "eventDateTime" : "44",
+      "maxParticipants" : 33,
+      "currentParticipants" : 0,
+      "description" : "33 источник https://raw.githubusercontent.com/AlexeyJarlax/pleinair_mock_data/main/events.json",
+      "price" : 33.0,
+      "city" : "Красноярск",
+      "address" : "набережная Марка Шагала, Даниловский район, Москва, Россия",
+      "coordinate" : null,
+      "photos" : [ {
+        "id" : "photo-90f9e192-dfaa-4a27-84bc-25047177a5aa",
+        "link" : "uploads/a2419153-4182-43b6-bbaa-f3377c2ed4f4.jpg",
+        "order" : 0
+      } ]
+    }, {
+      "eventId" : "event-e4cf1049-0793-4b51-8cf1-0d4705bc19c0",
+      "userId" : "d2ffce59-5061-48aa-92ab-89b975b00302",
+      "eventName" : "004",
+      "adType" : "pleinair_events",
+      "style" : "Акварель",
+      "eventDateTime" : "55",
+      "maxParticipants" : 33,
+      "currentParticipants" : 0,
+      "description" : "33 источник https://raw.githubusercontent.com/AlexeyJarlax/pleinair_mock_data/main/events.json",
+      "price" : 33.0,
+      "city" : "Волгоград",
+      "address" : "набережная Марка Шагала, Даниловский район, Москва, Россия",
+      "coordinate" : null,
+      "photos" : [ {
+        "id" : "photo-5b086b25-cf36-4c95-97c9-b8404cf861d6",
+        "link" : "uploads/43fb609c-3643-4c31-916b-bbe42d201ce5.jpg",
+        "order" : 0
+      }, {
+        "id" : "photo-c1a15a2d-193c-480f-bdf1-690c037b1dd8",
+        "link" : "uploads/9bfeb441-c612-44ab-9a96-57bdfcce29df.jpg",
+        "order" : 1
+      } ]
+    } ]
   }
 }
