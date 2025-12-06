@@ -1,91 +1,90 @@
 {
   "detail" : {
-    "total" : 4,
+    "total" : 3,
     "offset" : 0,
     "events" : [ {
-      "eventId" : "event-faa00e39-19cb-4ebe-aaab-cf2f11a10513",
+      "eventId" : "event-35fb2dee-5363-4635-ac72-e86ee42eb618",
       "userId" : "d2ffce59-5061-48aa-92ab-89b975b00302",
-      "eventName" : "001",
+      "eventName" : "edrygertgewsrgh sfh trdsth g",
       "adType" : "art_club",
       "style" : "Маркеры",
-      "eventDateTime" : "77",
-      "maxParticipants" : 77,
+      "eventDateTime" : "2025-12-04T16:28:00Z",
+      "maxParticipants" : 22,
       "currentParticipants" : 0,
-      "description" : "77 источник https://raw.githubusercontent.com/AlexeyJarlax/pleinair_mock_data/main/events.json",
-      "price" : 7777.0,
+      "description" : "Dfgdfgdfgegg gg53g5 gfcvb retb tre5 wg fdsgfd srtПользователь:\nuserId: String,\navatar: String? = null,\nusername: String,\nphone: String? = null,\ntype: Int? = null, ( AuthModel.AuthUserType.COMPANY.value -> ORGANIZATION, AuthModel.AuthUserType.PHYSICAL.value -> USER, 2 -> ADMIN, 3 -> MODERATOR, else -> USER )\ncreatedAt: String? = null,\ntelegramId: String? = null,\ndescription: String? = null,\ncity: String? = null,\ncoordinate (val latitude: Double, val longitude: Double)? = null,\nphotos (data class UserPhotoDto(val id: String, val link: String, val order: Int? = null)? = null,\nfavorite: List<String> = emptyList()? = null (это **встречи, которые пользовател добавил в избранное),****\nmeatingHistory: List<String> = emptyList()? = null, (это перечень встречь, которые создавал пользователь)/",
+      "price" : 1.0,
       "city" : "Пермь",
-      "address" : "улица Петра Кончаловского 3, Даниловский район, Москва, Россия",
+      "address" : "Неорганизованный боро, Аляска, Соединённые Штаты Америки",
+      "coordinateAddress" : null,
       "coordinate" : {
-        "latitude" : 55.691261832213684,
-        "longitude" : 37.637672424316406
+        "latitude" : 63.19401843808783,
+        "longitude" : -170.068359375
       },
       "photos" : [ {
-        "id" : "photo-9949830c-8bb2-4ae3-84c4-9d79d5dd0f24",
-        "link" : "uploads/3b36b98a-de68-4c41-82d4-1d76528be240.jpg",
-        "order" : 0
-      } ]
-    }, {
-      "eventId" : "event-aac02c14-394d-4c07-9419-0a0154026cf7",
-      "userId" : "d2ffce59-5061-48aa-92ab-89b975b00302",
-      "eventName" : "002",
-      "adType" : "art_club",
-      "style" : "Маркеры",
-      "eventDateTime" : "33",
-      "maxParticipants" : 33,
-      "currentParticipants" : 0,
-      "description" : "33 источник https://raw.githubusercontent.com/AlexeyJarlax/pleinair_mock_data/main/events.json",
-      "price" : 33.0,
-      "city" : "Красноярск",
-      "address" : "набережная Марка Шагала, Даниловский район, Москва, Россия",
-      "coordinate" : {
-        "latitude" : 55.687907435826226,
-        "longitude" : 37.637014389038086
-      },
-      "photos" : [ {
-        "id" : "photo-32893f0f-a643-4ec9-b583-9379c73160fe",
-        "link" : "uploads/4e94fd24-b7f1-4aaa-8f43-e551c2e99365.jpg",
-        "order" : 0
-      } ]
-    }, {
-      "eventId" : "event-1d40c50f-62a8-4b70-ad2a-4f4afbebda15",
-      "userId" : "d2ffce59-5061-48aa-92ab-89b975b00302",
-      "eventName" : "003",
-      "adType" : "pleinair_events",
-      "style" : "Карандаш",
-      "eventDateTime" : "44",
-      "maxParticipants" : 33,
-      "currentParticipants" : 0,
-      "description" : "33 источник https://raw.githubusercontent.com/AlexeyJarlax/pleinair_mock_data/main/events.json",
-      "price" : 33.0,
-      "city" : "Красноярск",
-      "address" : "набережная Марка Шагала, Даниловский район, Москва, Россия",
-      "coordinate" : null,
-      "photos" : [ {
-        "id" : "photo-90f9e192-dfaa-4a27-84bc-25047177a5aa",
-        "link" : "uploads/a2419153-4182-43b6-bbaa-f3377c2ed4f4.jpg",
-        "order" : 0
-      } ]
-    }, {
-      "eventId" : "event-e4cf1049-0793-4b51-8cf1-0d4705bc19c0",
-      "userId" : "d2ffce59-5061-48aa-92ab-89b975b00302",
-      "eventName" : "004",
-      "adType" : "pleinair_events",
-      "style" : "Акварель",
-      "eventDateTime" : "55",
-      "maxParticipants" : 33,
-      "currentParticipants" : 0,
-      "description" : "33 источник https://raw.githubusercontent.com/AlexeyJarlax/pleinair_mock_data/main/events.json",
-      "price" : 33.0,
-      "city" : "Волгоград",
-      "address" : "набережная Марка Шагала, Даниловский район, Москва, Россия",
-      "coordinate" : null,
-      "photos" : [ {
-        "id" : "photo-5b086b25-cf36-4c95-97c9-b8404cf861d6",
-        "link" : "uploads/43fb609c-3643-4c31-916b-bbe42d201ce5.jpg",
+        "id" : "photo-1d8d23f1-cfe5-407c-82b6-29c77c048b6d",
+        "link" : "https://www.theartnewspaper.ru/media/images/12228_Montagne_Sainte-Victoire_par_Paul_Cezan.width-1290.jpg",
         "order" : 0
       }, {
-        "id" : "photo-c1a15a2d-193c-480f-bdf1-690c037b1dd8",
-        "link" : "uploads/9bfeb441-c612-44ab-9a96-57bdfcce29df.jpg",
+        "id" : "photo-1a8ce14a-39fc-4065-a150-652dddde8692",
+        "link" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Peinture_de_plein_air.jpg/1280px-Peinture_de_plein_air.jpg",
+        "order" : 1
+      }, {
+        "id" : "photo-38d10103-edfc-4f64-bf1a-c3d4aab43624",
+        "link" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Peinture_de_plein_air.jpg/1280px-Peinture_de_plein_air.jpg",
+        "order" : 2
+      }, {
+        "id" : "photo-980b67b2-89b8-4c83-aa1c-5056683c66af",
+        "link" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Arthur_Streeton_Curlew_Camp.jpg/330px-Arthur_Streeton_Curlew_Camp.jpg",
+        "order" : 3
+      } ]
+    }, {
+      "eventId" : "event-c1f160ee-4e9d-424c-9ab6-0f1c239f7df1",
+      "userId" : "d2ffce59-5061-48aa-92ab-89b975b00302",
+      "eventName" : "graf master class",
+      "adType" : "master_class",
+      "style" : "Графика",
+      "eventDateTime" : "2025-12-25T06:48:00Z",
+      "maxParticipants" : 33,
+      "currentParticipants" : 0,
+      "description" : "4ghwssrdhgtrth rthhr y2fsa f3w345 t5t4tgdsg g 4tg 543g bsdf bfgb",
+      "price" : 2.0,
+      "city" : "Краснодар",
+      "address" : "Clark Road, Paradise, Butte County, Калифорния, Соединённые Штаты Америки",
+      "coordinateAddress" : "Clark Road, Paradise, Butte County, Калифорния, Соединённые Штаты Америки",
+      "coordinate" : {
+        "latitude" : 39.759991405253125,
+        "longitude" : -121.6058349609375
+      },
+      "photos" : [ {
+        "id" : "photo-f06694f9-5124-49f2-a6da-de783ca40aaa",
+        "link" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Claude_Monet_-_In_the_Woods_at_Giverny-_Blanche_Hosched%C3%A9_at_Her_Easel_with_Suzanne_Hosched%C3%A9_Reading_-_Google_Art_Project.jpg/960px-Claude_Monet_-_In_the_Woods_at_Giverny-_Blanche_Hosched%C3%A9_at_Her_Easel_with_Suzanne_Hosched%C3%A9_Reading_-_Google_Art_Project.jpg",
+        "order" : 0
+      } ]
+    }, {
+      "eventId" : "event-59fd6688-d96f-4f20-8c9b-b3ea3f6fcc42",
+      "userId" : "d2ffce59-5061-48aa-92ab-89b975b00302",
+      "eventName" : "2dzsbxdg esdb wg wsg xdtb rb ",
+      "adType" : "art_club",
+      "style" : "Акварель",
+      "eventDateTime" : "2025-12-23T16:29:00Z",
+      "maxParticipants" : 55,
+      "currentParticipants" : 0,
+      "description" : "Dsfgdfgh fdxtth bsetrhgser hxfgn xfh rh ttrh ",
+      "price" : 33.0,
+      "city" : "Волгоград",
+      "address" : "Quarry Road, Davenport, Санта-Крус, Калифорния, Соединённые Штаты Америки",
+      "coordinateAddress" : "Quarry Road, Davenport, Санта-Крус, Калифорния, Соединённые Штаты Америки",
+      "coordinate" : {
+        "latitude" : 37.0296003383828,
+        "longitude" : -122.1771240234375
+      },
+      "photos" : [ {
+        "id" : "photo-9387c57e-b925-4bb4-aa4e-8257988e6937",
+        "link" : "uploads/964eb1c1-3d2f-4f43-b8c7-c801e6e46401.jpg",
+        "order" : 0
+      }, {
+        "id" : "photo-8e7970fd-60e0-41e9-bc5e-10047ab199a4",
+        "link" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Henri_BIVA%2C_ca_1905-06%2C_Matin_%C3%A0_Villeneuve%2C_Salon_1906_postcard_-_original_painting%2C_oil_on_canvas%2C_151.1_x_125.1_cm%2C_private_collection.jpeg/960px-Henri_BIVA%2C_ca_1905-06%2C_Matin_%C3%A0_Villeneuve%2C_Salon_1906_postcard_-_original_painting%2C_oil_on_canvas%2C_151.1_x_125.1_cm%2C_private_collection.jpeg",
         "order" : 1
       } ]
     } ]
